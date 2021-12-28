@@ -1,5 +1,5 @@
 //Program for finding out Odd or Even number
-package com.company;
+package assignment_set2;
 
 import java.util.Scanner;
 

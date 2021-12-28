@@ -1,5 +1,5 @@
 //To find out whether the given String is Palindrome or not.
-package com.company;
+package assignment_set2;
 
 import java.util.Scanner;
 

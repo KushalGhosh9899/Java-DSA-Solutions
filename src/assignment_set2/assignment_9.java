@@ -1,5 +1,5 @@
 //To find Armstrong Number between two given number.
-package com.company;
+package assignment_set2;
 
 import java.util.Scanner;
 

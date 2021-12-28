@@ -1,5 +1,5 @@
 //Input currency in rupees and output in USD
-package com.company;
+package assignment_set2;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 //Program for program finding out simple interest
-package com.company;
+package assignment_set2;
 
 import java.util.Scanner;
 

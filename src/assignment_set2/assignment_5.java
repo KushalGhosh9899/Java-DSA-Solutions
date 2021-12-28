@@ -1,5 +1,5 @@
 //Take 2 numbers as input and print the largest number
-package com.company;
+package assignment_set2;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 //Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
-package com.company;
+package assignment_set2;
 
 import java.util.Scanner;
 

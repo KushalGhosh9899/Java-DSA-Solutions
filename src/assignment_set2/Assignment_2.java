@@ -1,5 +1,5 @@
 //Program for Take name as input and print a greeting message for that name
-package com.company;
+package assignment_set2;
 
 import java.util.Scanner;
 

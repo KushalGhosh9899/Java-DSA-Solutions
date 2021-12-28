@@ -1,5 +1,5 @@
 //To calculate Fibonacci Series up to n numbers.
-package com.company;
+package assignment_set2;
 import java.util.Scanner;
 
 public class assignment_7 {
