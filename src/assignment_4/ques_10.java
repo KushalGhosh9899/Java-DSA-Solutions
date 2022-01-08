@@ -12,7 +12,7 @@ public class ques_10 {
     }
     public static void isPalindrome(int num){
         int rem=0,numcpy=num,i=1,sum=0;
-        
+
         //Find out how many digits are present
         while(num!=0){
             num=num/10;
